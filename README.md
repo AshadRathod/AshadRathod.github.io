@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! This is my website portfolio that showcases the projects I have worked on, technologies I am familiar with and more!
 
 <!--
 **AshadRathod/AshadRathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
